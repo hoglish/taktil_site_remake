@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hoglish.github.io/kr1-html-css-shop/sitemap.xml
